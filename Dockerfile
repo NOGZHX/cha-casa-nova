@@ -1,8 +1,7 @@
-FROM openjdk:17-jdk-slim
+FROM eclipse-temurin:17-jdk-jammy
 
 WORKDIR /app
 
 COPY target/cha-casa-nova-1.0.0.jar app.jar
 
 CMD ["java", "-jar", "app.jar"]
-
