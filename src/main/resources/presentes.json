@@ -221,7 +221,7 @@
   {
     "id": 28,
     "nome": "Cabides",
-    "valor": 40,
+    "valor": 50,
     "descricao": "Para organizar roupas.",
     "imagem": "img/cabides.webp",
     "comodo": "Quarto"
@@ -229,7 +229,7 @@
   {
     "id": 29,
     "nome": "Almofadas",
-    "valor": 50,
+    "valor": 35,
     "descricao": "Mais conforto no dia a dia.",
     "imagem": "img/almofadas-quarto.webp",
     "comodo": "Quarto"
@@ -261,9 +261,9 @@
   },
   {
     "id": 33,
-    "nome": "Cobra de porta",
+    "nome": "Protetor duplo porta",
     "valor": 35,
-    "descricao": "Evita vento e poeira.",
+    "descricao": "Evita insetos e poeira.",
     "imagem": "img/cobra-porta.webp",
     "comodo": "Sala"
   }
