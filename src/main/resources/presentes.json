@@ -322,17 +322,8 @@
     "imagem": "img/protetor-colchao.webp",
     "comodo": "Quarto"
   },
-
   {
     "id": 41,
-    "nome": "Tapete",
-    "valor": 100,
-    "descricao": "Mais conforto na cozinha.",
-    "imagem": "img/tapete-sala.webp",
-    "comodo": "Sala"
-  },
-  {
-    "id": 42,
     "nome": "Almofadas sala",
     "valor": 60,
     "descricao": "Para deixar a sala aconchegante.",
@@ -340,7 +331,7 @@
     "comodo": "Sala"
   },
   {
-    "id": 43,
+    "id": 42,
     "nome": "Protetor duplo porta",
     "valor": 35,
     "descricao": "Evita insetos e poeira.",
