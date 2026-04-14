@@ -179,11 +179,11 @@
   },
   {
     "id": 23,
-    "nome": "Tapete cozinha",
-    "valor": 50,
+    "nome": "Tapete",
+    "valor": 100,
     "descricao": "Mais conforto na cozinha.",
-    "imagem": "img/tapete-cozinha.webp",
-    "comodo": "Cozinha"
+    "imagem": "img/tapete-sala.webp",
+    "comodo": "Sala"
   },
   {
     "id": 24,
