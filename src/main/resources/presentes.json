@@ -106,7 +106,7 @@
   },
   {
     "id": 14,
-    "nome": "Cortina de box",
+    "nome": "Cortina box",
     "valor": 60,
     "descricao": "Evita respingos no banheiro.",
     "imagem": "img/cortina-box.webp",
@@ -163,10 +163,10 @@
   },
   {
     "id": 21,
-    "nome": "Panos de prato e avental",
+    "nome": "Panos de prato",
     "valor": 40,
     "descricao": "Para o dia a dia.",
-    "imagem": "img/panos-avental.webp",
+    "imagem": "img/panos-prato.webp",
     "comodo": "Cozinha"
   },
   {
