@@ -2,6 +2,10 @@ FROM eclipse-temurin:17-jdk-jammy
 
 WORKDIR /app
 
-COPY target/cha-casa-nova-1.0.0.jar app.jar
+COPY . .
 
-CMD ["java", "-jar", "app.jar"]
+RUN chmod +x mvnw
+
+RUN ./mvnw clean package -DskipTests
+
+CMD ["java", "-jar", "target/*.jar"]
