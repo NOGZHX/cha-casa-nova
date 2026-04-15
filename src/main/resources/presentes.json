@@ -211,10 +211,10 @@
   },
   {
     "id": 27,
-    "nome": "Escorredor de arroz",
-    "valor": 25,
+    "nome": "Escumadeira para fritura",
+    "valor": 20,
     "descricao": "Facilita no preparo.",
-    "imagem": "img/escorredor-arroz.webp",
+    "imagem": "img/escumadeira.webp",
     "comodo": "Cozinha"
   },
   {
