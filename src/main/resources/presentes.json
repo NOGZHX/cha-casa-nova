@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Varal de chão",
-    "valor": 120,
+    "valor": 100,
     "descricao": "Para secar roupas no dia a dia.",
     "imagem": "img/varal-chao.webp",
     "comodo": "Geral"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "nome": "Varal de roupas íntimas",
-    "valor": 30,
+    "valor": 25,
     "descricao": "Ideal para peças pequenas.",
     "imagem": "img/varal-intimo.webp",
     "comodo": "Geral"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "nome": "Lixeira",
-    "valor": 50,
+    "valor": 45,
     "descricao": "Para manter tudo organizado.",
     "imagem": "img/lixeira-geral.webp",
     "comodo": "Geral"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "nome": "Prendedores de roupa",
-    "valor": 20,
+    "valor": 15,
     "descricao": "Essenciais no dia a dia.",
     "imagem": "img/prendedores-roupa.webp",
     "comodo": "Geral"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "nome": "Kit básico de ferramentas",
-    "valor": 120,
+    "valor": 100,
     "descricao": "Para pequenos reparos.",
     "imagem": "img/kit-ferramentas.webp",
     "comodo": "Geral"
@@ -43,7 +43,7 @@
   {
     "id": 6,
     "nome": "Lixeira banheiro",
-    "valor": 40,
+    "valor": 35,
     "descricao": "Compacta e prática.",
     "imagem": "img/lixeira-banheiro.webp",
     "comodo": "Banheiro"
@@ -51,7 +51,7 @@
   {
     "id": 7,
     "nome": "Suporte de banheiro",
-    "valor": 60,
+    "valor": 50,
     "descricao": "Organiza shampoo e sabonete.",
     "imagem": "img/suporte-banheiro.webp",
     "comodo": "Banheiro"
@@ -59,7 +59,7 @@
   {
     "id": 8,
     "nome": "Desentupidor",
-    "valor": 25,
+    "valor": 20,
     "descricao": "Para imprevistos.",
     "imagem": "img/desentupidor.webp",
     "comodo": "Banheiro"
@@ -67,7 +67,7 @@
   {
     "id": 9,
     "nome": "Escova sanitária",
-    "valor": 30,
+    "valor": 25,
     "descricao": "Para manter a limpeza.",
     "imagem": "img/escova-sanitaria.webp",
     "comodo": "Banheiro"
@@ -75,7 +75,7 @@
   {
     "id": 10,
     "nome": "Cesto de roupa",
-    "valor": 70,
+    "valor": 60,
     "descricao": "Para organizar roupas.",
     "imagem": "img/cesto-roupa.webp",
     "comodo": "Banheiro"
@@ -83,7 +83,7 @@
   {
     "id": 11,
     "nome": "Kit de pia",
-    "valor": 50,
+    "valor": 40,
     "descricao": "Organiza a pia.",
     "imagem": "img/kit-pia.webp",
     "comodo": "Banheiro"
@@ -91,7 +91,7 @@
   {
     "id": 12,
     "nome": "Tapete banheiro",
-    "valor": 40,
+    "valor": 35,
     "descricao": "Mais conforto ao sair do banho.",
     "imagem": "img/tapete-banheiro.webp",
     "comodo": "Banheiro"
@@ -99,7 +99,7 @@
   {
     "id": 13,
     "nome": "Chuveiro",
-    "valor": 120,
+    "valor": 90,
     "descricao": "Para banhos relaxantes.",
     "imagem": "img/chuveiro.webp",
     "comodo": "Banheiro"
@@ -107,7 +107,7 @@
   {
     "id": 14,
     "nome": "Cortina box",
-    "valor": 60,
+    "valor": 45,
     "descricao": "Evita respingos no banheiro.",
     "imagem": "img/cortina-box.webp",
     "comodo": "Banheiro"
@@ -116,7 +116,7 @@
   {
     "id": 15,
     "nome": "Torneira com filtro",
-    "valor": 150,
+    "valor": 90,
     "descricao": "Água limpa sempre.",
     "imagem": "img/torneira-filtro.webp",
     "comodo": "Cozinha"
@@ -124,7 +124,7 @@
   {
     "id": 16,
     "nome": "Fuê",
-    "valor": 25,
+    "valor": 20,
     "descricao": "Para receitas do dia a dia.",
     "imagem": "img/fue.webp",
     "comodo": "Cozinha"
@@ -132,7 +132,7 @@
   {
     "id": 17,
     "nome": "Escorredor de pratos",
-    "valor": 80,
+    "valor": 70,
     "descricao": "Organiza a louça.",
     "imagem": "img/escorredor-pratos.webp",
     "comodo": "Cozinha"
@@ -140,7 +140,7 @@
   {
     "id": 18,
     "nome": "Potes de mantimentos",
-    "valor": 70,
+    "valor": 60,
     "descricao": "Para armazenar alimentos.",
     "imagem": "img/potes-mantimentos.webp",
     "comodo": "Cozinha"
@@ -148,15 +148,15 @@
   {
     "id": 19,
     "nome": "Jogo de facas",
-    "valor": 100,
+    "valor": 80,
     "descricao": "Essencial na cozinha.",
     "imagem": "img/jogo-facas.webp",
     "comodo": "Cozinha"
   },
   {
     "id": 20,
-    "nome": "Tábua de carne",
-    "valor": 40,
+    "nome": "Tábua de carne de vidro",
+    "valor": 45,
     "descricao": "Para cortar alimentos.",
     "imagem": "img/tabua-carne.webp",
     "comodo": "Cozinha"
@@ -164,7 +164,7 @@
   {
     "id": 21,
     "nome": "Panos de prato",
-    "valor": 40,
+    "valor": 30,
     "descricao": "Para o dia a dia.",
     "imagem": "img/panos-prato.webp",
     "comodo": "Cozinha"
@@ -172,7 +172,7 @@
   {
     "id": 22,
     "nome": "Forma de bolo",
-    "valor": 35,
+    "valor": 30,
     "descricao": "Para receitas especiais.",
     "imagem": "img/forma-bolo.webp",
     "comodo": "Cozinha"
@@ -180,15 +180,15 @@
   {
     "id": 23,
     "nome": "Tapete",
-    "valor": 100,
-    "descricao": "Mais conforto na cozinha.",
+    "valor": 80,
+    "descricao": "Mais conforto na casa.",
     "imagem": "img/tapete-sala.webp",
     "comodo": "Sala"
   },
   {
     "id": 24,
     "nome": "Galão de água",
-    "valor": 30,
+    "valor": 25,
     "descricao": "Para armazenar água.",
     "imagem": "img/galao-agua.webp",
     "comodo": "Cozinha"
@@ -196,7 +196,7 @@
   {
     "id": 25,
     "nome": "Jogo de copos",
-    "valor": 60,
+    "valor": 50,
     "descricao": "Para servir bebidas.",
     "imagem": "img/jogo-copos.webp",
     "comodo": "Cozinha"
@@ -204,7 +204,7 @@
   {
     "id": 26,
     "nome": "Escorredor de macarrão",
-    "valor": 40,
+    "valor": 30,
     "descricao": "Para escorrer massas.",
     "imagem": "img/escorredor-macarrao.webp",
     "comodo": "Cozinha"
@@ -212,7 +212,7 @@
   {
     "id": 27,
     "nome": "Escorredor de arroz",
-    "valor": 35,
+    "valor": 25,
     "descricao": "Facilita no preparo.",
     "imagem": "img/escorredor-arroz.webp",
     "comodo": "Cozinha"
@@ -220,7 +220,7 @@
   {
     "id": 28,
     "nome": "Espremedor de alho",
-    "valor": 25,
+    "valor": 20,
     "descricao": "Prático no dia a dia.",
     "imagem": "img/espremedor-alho.webp",
     "comodo": "Cozinha"
@@ -228,7 +228,7 @@
   {
     "id": 29,
     "nome": "Espremedor de limão",
-    "valor": 25,
+    "valor": 20,
     "descricao": "Para sucos e receitas.",
     "imagem": "img/espremedor-limao.webp",
     "comodo": "Cozinha"
@@ -236,7 +236,7 @@
   {
     "id": 30,
     "nome": "Porta temperos",
-    "valor": 50,
+    "valor": 40,
     "descricao": "Organiza os temperos.",
     "imagem": "img/porta-temperos.webp",
     "comodo": "Cozinha"
@@ -244,7 +244,7 @@
   {
     "id": 31,
     "nome": "Mixer",
-    "valor": 120,
+    "valor": 100,
     "descricao": "Para facilitar receitas.",
     "imagem": "img/mixer.webp",
     "comodo": "Cozinha"
@@ -252,7 +252,7 @@
   {
     "id": 32,
     "nome": "Ralador",
-    "valor": 30,
+    "valor": 25,
     "descricao": "Para preparar alimentos.",
     "imagem": "img/ralador.webp",
     "comodo": "Cozinha"
@@ -260,7 +260,7 @@
   {
     "id": 33,
     "nome": "Forma de gelo",
-    "valor": 15,
+    "valor": 10,
     "descricao": "Para fazer gelo.",
     "imagem": "img/forma-gelo.webp",
     "comodo": "Cozinha"
@@ -268,7 +268,7 @@
   {
     "id": 34,
     "nome": "Abridor de garrafa",
-    "valor": 20,
+    "valor": 15,
     "descricao": "Prático no dia a dia.",
     "imagem": "img/abridor.webp",
     "comodo": "Cozinha"
@@ -277,7 +277,7 @@
   {
     "id": 35,
     "nome": "Cortina",
-    "valor": 100,
+    "valor": 80,
     "descricao": "Para conforto e privacidade.",
     "imagem": "img/cortina.webp",
     "comodo": "Quarto"
@@ -285,7 +285,7 @@
   {
     "id": 36,
     "nome": "Lençol com zíper",
-    "valor": 120,
+    "valor": 100,
     "descricao": "Prático e confortável.",
     "imagem": "img/lencol-ziper.webp",
     "comodo": "Quarto"
@@ -293,7 +293,7 @@
   {
     "id": 37,
     "nome": "Cabides",
-    "valor": 50,
+    "valor": 40,
     "descricao": "Para organizar roupas.",
     "imagem": "img/cabides.webp",
     "comodo": "Quarto"
@@ -301,7 +301,7 @@
   {
     "id": 38,
     "nome": "Cobertor",
-    "valor": 100,
+    "valor": 80,
     "descricao": "Para noites quentinhas.",
     "imagem": "img/cobertor.webp",
     "comodo": "Quarto"
@@ -309,7 +309,7 @@
   {
     "id": 39,
     "nome": "Edredom",
-    "valor": 150,
+    "valor": 120,
     "descricao": "Mais aconchego.",
     "imagem": "img/edredom.webp",
     "comodo": "Quarto"
@@ -317,7 +317,7 @@
   {
     "id": 40,
     "nome": "Protetor de colchão",
-    "valor": 80,
+    "valor": 60,
     "descricao": "Para proteger a cama.",
     "imagem": "img/protetor-colchao.webp",
     "comodo": "Quarto"
@@ -325,7 +325,7 @@
   {
     "id": 41,
     "nome": "Almofadas sala",
-    "valor": 60,
+    "valor": 50,
     "descricao": "Para deixar a sala aconchegante.",
     "imagem": "img/almofadas-sala.webp",
     "comodo": "Sala"
@@ -333,9 +333,17 @@
   {
     "id": 42,
     "nome": "Protetor duplo porta",
-    "valor": 35,
+    "valor": 25,
     "descricao": "Evita insetos e poeira.",
     "imagem": "img/cobra-porta.webp",
     "comodo": "Sala"
+  },
+  {
+    "id": 43,
+    "nome": "Suporte de papel toalha",
+    "valor": 35,
+    "descricao": "Organiza o papel toalha.",
+    "imagem": "img/suporte-papel-toalha.webp",
+    "comodo": "Cozinha"
   }
 ]
